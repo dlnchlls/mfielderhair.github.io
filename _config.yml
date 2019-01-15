@@ -1,6 +1,11 @@
 # general configuration
-url: http://dlnchlls.github.io/
+url: http://mfielderhair.github.io/
 baseurl: ''
+
+phone: +44 123 45678
+messenger: messenger
+email: me@email.com
+
 
 # compass configuration
 compass:

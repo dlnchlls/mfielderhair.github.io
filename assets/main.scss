@@ -42,6 +42,17 @@ a:hover {
 	margin: 0.8em 0;
 }
 
+
+.social {
+	text-align: center;
+}
+
+.fa,
+.fab {
+	padding: 10px;
+	color: #46433A;
+}
+
 /* override the left margin added by font awesome for the main content list,
 since it must be aligned with the content */
 .fa-ul.main-list {
