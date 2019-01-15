@@ -2,9 +2,11 @@
 url: http://mfielderhair.github.io/
 baseurl: ''
 
-phone: +44 123 45678
-messenger: messenger
-email: me@email.com
+phone: +44 7814 233081
+facebook: hairbymelissafielder
+instagram: hairbymelissafielder
+messenger: hairbymelissafielder
+email: enquiries@mfielderhair.co.uk
 
 
 # compass configuration
@@ -12,9 +14,9 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/compass.png"
   # author will appear under the avatar (optional)
-  author: "Hair by Melissa Fielder"
+  author: "Hair by Melissa"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  tagline: "Hair Technician"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
